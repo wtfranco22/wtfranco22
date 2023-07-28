@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Franco Rodriguez</h1>
 <h3 align="center">Un desarrollador extremadamente detallista y obsesionado con la eficiencia. Mi enfoque meticuloso en cada línea de código me permite crear soluciones robustas y optimizadas</h3>
 
-- 🔭 Estoy trabajando en [Pokemon](https://github.com/wtfranco22/pokemon)
+- 🔭 Estoy trabajando en [Pokemon](https://github.com/wtfranco22/pokemon) : [deploy](https://pokemon-vert-two.vercel.app/)
 
 - 🌱 Estoy aprendiendo **NextJs | Express | Jenkins | Sequelize | Prisma | Postgres**
 
